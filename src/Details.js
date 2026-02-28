@@ -124,7 +124,7 @@ export const projectDetails = [
     description: `Analyzed 1,449 public YouTube comments to assess sentiment toward Indonesia’s rupiah redenomination policy\nDemonstrated the use of NLP for public opinion monitoring and policy communication evaluation.`,
     techstack: "Python, Pandas, Numpy, Scikit-Learn",
     previewLink: "https://www.linkedin.com/in/hamud-abdul-aziz/details/projects/1114447006/multiple-media-viewer/?profileId=ACoAAEI-_GoB3ypXCZMHxvemZ_uG_406-ucJnNI&treasuryMediaId=1770640973093",
-    githubLink: "https://github.com",
+    githubLink: "#",
     type: "report"
   },
   {
@@ -133,7 +133,7 @@ export const projectDetails = [
     description: `Integrated and standardized provincial marine capture fisheries data (2017–2024) and conducted EDA to analyze production trends and regional disparities.\nApplied K-Means clustering (Silhouette Score validated) to classify provinces into surplus and deficit groups, identifying distribution and logistics gaps.`,
     techstack: "Python, Pandas, Numpy, Scikit-Learn",
     previewLink: "https://www.linkedin.com/in/hamud-abdul-aziz/details/projects/1770828119826/single-media-viewer/?profileId=ACoAAEI-_GoB3ypXCZMHxvemZ_uG_406-ucJnNI",
-    githubLink: "https://github.com",
+    githubLink: "#",
     type: "report"
   },
   {
@@ -142,7 +142,7 @@ export const projectDetails = [
     description: `Collected 10,000 Halodoc user reviews from Google Play Store (7,332 unique after deduplication) and performed Indonesian NLP preprocessing (cleaning, normalization, tokenization, stopword removal, stemming with Sastrawi).`,
     techstack: "Python, Pandas, Numpy, Scikit-Learn",
     previewLink: "https://www.linkedin.com/in/hamud-abdul-aziz/details/projects/1015323141/multiple-media-viewer/?profileId=ACoAAEI-_GoB3ypXCZMHxvemZ_uG_406-ucJnNI&treasuryMediaId=1753361980149",
-    githubLink: "https://github.com",
+    githubLink: "#",
     type: "report"
   },
   {
@@ -150,7 +150,7 @@ export const projectDetails = [
     image: projectImage4,
     description: `Developed an autonomous robot capable of detecting and following a specific human face in real-time. Integrated advanced Computer Vision algorithms using the InsightFace library (ArcFace model) for high-accuracy face detection and recognition.`,
     techstack: "Python, Arduino Uno, Insight Face",
-    previewLink: "https://google.com",
+    previewLink: "#",
     githubLink: "https://github.com/mfachri820/RobotikaFaceRecognition",
     type: "report"
   },
@@ -160,7 +160,7 @@ export const projectDetails = [
     description: `This project implements a star topology and virtualization using Cisco Packet Tracer to overcome the limitations of the previous bus network in the Radio Building, successfully enhancing reliability and security through VLAN segmentation and Inter-VLAN routing.`,
     techstack: "Cisco Packet Tracer",
     previewLink: "https://docs.google.com/document/d/1z2Zkm-irmFkwuSRyyXZsxKv2Il5CeVLOWOK_LGTaxO8/edit?usp=sharing",
-    githubLink: "https://github.com",
+    githubLink: "#",
     type: "report"
   },
 ];
