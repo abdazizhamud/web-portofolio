@@ -114,7 +114,7 @@ export const projectDetails = [
     image: projectImageunpad,
     description: `Contributed to the development of a full-scale 3D campus simulation environment representing Universitas Padjadjaran for educational and visualization purposes.`,
     techstack: "Roblox Studio, Blender, Lua",
-    previewLink: "#",
+    previewLink: "https://www.roblox.com/share?code=ab2b40436e5c7e4cb434e772a46c5dcb&type=ExperienceDetails&stamp=1772304214544",
     githubLink: "#",
     type: "web"
   },
